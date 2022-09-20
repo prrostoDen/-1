@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Project Visual Studio Den\3 семестр\lab1_OOP\lab1_OOP\Source.cpp(27,25): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+C:\Project Visual Studio Den\3 семестр\lab1_OOP\lab1_OOP\Source.cpp(105,27): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  lab1_OOP.vcxproj -> C:\Project Visual Studio Den\3 семестр\lab1_OOP\Debug\lab1_OOP.exe
